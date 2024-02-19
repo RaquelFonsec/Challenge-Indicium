@@ -4,7 +4,7 @@ Este projeto tem como objetivo desenvolver um modelo de previsão de preços par
 
 ## Instalação
 
-Certifique-se de ter o Python e o ambiente virtual instalados.
+ Certifique-se de ter o Python e o ambiente virtual instalados.
 
 1. Clone o repositório:
 
