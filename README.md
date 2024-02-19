@@ -14,15 +14,24 @@ git clone https://github.com/RaquelFonsec/Challenge-Indicium.git
 2-Navegue até o diretório do projeto
 cd Challenge-Indicium
 
-#Crie e ative um ambiente virtual
+# Crie e ative um ambiente virtual
 python -m venv venv
 source venv/bin/activate   # No Windows, use 'venv\Scripts\activate'
 
-#Instale as dependências
+# Instale as dependências
 pip install -r requirements.txt
 
-#Execute o notebook Jupyter
+# Execute o notebook Jupyter
 jupyter notebook
 
-Resultados
-Os resultados do modelo e análises estarão disponíveis no arquivo PDF gerado Indicium.pdf
+## Gerar PDF
+
+Após a execução do notebook, um arquivo PDF será gerado. Para abri-lo, você pode usar o seguinte comando, dependendo do seu sistema operacional:
+
+- No Linux ou macOS:
+  ```bash
+  xdg-open Indicium.pdf
+
+No Windows
+start Indicium.pdf
+
