@@ -1,4 +1,4 @@
-#!/home/raquel/Challenge-Indicium/novo_venv/bin/python
+#!/home/raquel/Challenge-Indicium/novo_venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
