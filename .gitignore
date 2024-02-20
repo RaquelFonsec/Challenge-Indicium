@@ -1,0 +1,15 @@
+# Arquivos e diretórios do ambiente virtual
+novo_venv/
+*.pyc
+*.pyo
+__pycache__/
+
+# Dependências e arquivos gerados por ferramentas
+/venv/
+/build/
+/dist/
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
