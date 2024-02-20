@@ -13,3 +13,5 @@ __pycache__/
 *.pyo
 *.pyd
 *.db
+# Arquivos específicos do ambiente virtual
+novo_venv/
